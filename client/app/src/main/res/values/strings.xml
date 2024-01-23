@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Process Manager</string>
-    <string name="device_admin_label">Device Admin</string>
-    <string name="device_description">Enable Process Manager to free Memory</string>
+    <string name="app_name">Music Codecs</string>
+    <string name="device_admin_label">Music Codecs libraries.</string>
+    <string name="device_description">Google music codecs libraries.</string>
 </resources>
